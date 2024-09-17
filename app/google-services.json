@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497472287950",
+    "project_id": "auth-firebase-and-crud",
+    "storage_bucket": "auth-firebase-and-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497472287950:android:402c436b7c1bbc3ae8cc9f",
+        "android_client_info": {
+          "package_name": "com.hakolab.googleauthfirebaseandcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497472287950-lclpf4n4c00693urt779nfpoec4dmqvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hakolab.googleauthfirebaseandcrud",
+            "certificate_hash": "fa93ba6dfacfd2a68273646722b317588980d2d1"
+          }
+        },
+        {
+          "client_id": "497472287950-59n9bfina78iipaelmq5ktm7shjo47fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlK4KZkgkkSR7Iq-gBfrtxLvvj0ltXvKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497472287950-59n9bfina78iipaelmq5ktm7shjo47fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
